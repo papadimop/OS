@@ -1,0 +1,12 @@
+..
+Lab1
+input.txt
+output
+ls.txt
+.
+..
+Lab1
+input.txt
+output
+ls.txt
+.

@@ -1,0 +1,6 @@
+./output/input.txt
+./input.txt
+./ls.txt
+./find.mov.txt
+./head-tail.txt
+./find.txt.txt
