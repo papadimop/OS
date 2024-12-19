@@ -1,0 +1,17 @@
+your_command: command not found
+log
+/home/papadimop/Lab05
+filename
+lab05.tar.gz
+log
+path
+cat: nonexistent.txt: No such file or directory
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+filename
+lab05.tar.gz
+log
+nonexistent.txt
+path
+testfile.txt
+/home/papadimop/Lab05
